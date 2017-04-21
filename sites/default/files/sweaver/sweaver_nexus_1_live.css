@@ -42,3 +42,37 @@ li a {
   background-color: #3a4d61;
 }
 
+div .form-item {
+  color: #c2c2c2;
+}
+
+#content-wrap h1 {
+  color: #68b8cc;
+  font-family: 'Times New Roman',Times,Serif;
+  font-size: 48px;
+}
+
+.content ul {
+  color: #bab8ba;
+}
+
+.field-items .field-item {
+  color: #b3b1b3;
+  font-weight: bold;
+}
+
+.field .field-label {
+  color: #bababa;
+  font-size: 17px;
+}
+
+#comments h2 {
+  color: #383638;
+  font-weight: bold;
+  font-family: 'Lucida Sans','Lucida Grande',Sans-Serif;
+}
+
+.text-format-wrapper #edit-comment-body-und-0-format {
+  background-color: #2c475c;
+}
+
