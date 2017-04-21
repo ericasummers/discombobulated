@@ -1,0 +1,44 @@
+#masthead .row {
+  background-color: #2b576b;
+}
+
+body #page {
+  background-color: #2b576b;
+}
+
+#logo h1 {
+  color: #ffffff;
+  font-family: 'Palatino Linotype',Palatino,Serif;
+}
+
+#block-views-new-coupons-block h2 {
+  color: #bdbdbd;
+  font-weight: bold;
+  font-family: Verdana,Geneva,Sans-Serif;
+  font-size: 33px;
+}
+
+.views-field .field-content {
+  color: #cccacc;
+  font-weight: bold;
+}
+
+.field-item p {
+  color: #d1cdd1;
+  font-weight: bold;
+}
+
+#breadcrumbs .breadcrumb {
+  background-color: #46698f;
+  color: #292729;
+  font-weight: bold;
+}
+
+.row .col-sm-6 {
+  color: #bdbdbd;
+}
+
+li a {
+  background-color: #3a4d61;
+}
+
